@@ -6,6 +6,7 @@ DeepEffector includes all the data and code of the experiment in this paper, sep
 - DeepEffector-Fungi
 - DeepEffector-Oomycete
 
-Other folder includes code for running other scripts
+Other folder includes code for running other scripts.
+
 To facilitate community use, we provide an accessible web server (https://deepeffector.hainanu.edu.cn/), 
 offering an efficient and reliable pipeline for effector discovery and the development of targeted crop protection strategies.
